@@ -36,7 +36,6 @@ pip install opencv-python Pillow pycryptodome numpy
 
 2️⃣ Clone the Repository
 git clone https://github.com/Blackshot2201/Innovate-Intern-Project-Image-Encryption
-cd ONGC-Project-
 
 🧪 Usage (CLI Commands)
 
